@@ -10,9 +10,9 @@ export const projects: Project[] = [
   },
   {
     id: 'project-2',
-    title: 'Infinity Cities',
+    title: 'Portfolio by MylleZ',
     description: 'The portfolio site you are currently using',
-    url: 'http://localhost:5173/',
+    url: 'https://myllez2110.github.io/myllezportfolio/',
     technologies: ['React', 'TypeScript', 'Tailwind', 'GH-Pages'],
   },
 ];
