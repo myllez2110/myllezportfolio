@@ -4,7 +4,7 @@ export const projects: Project[] = [
   {
     id: 'project-1',
     title: 'Infinity Cities',
-    description: 'A simple project using API applications to browse cities infinitely ',
+    description: 'A simple project using API applications to browse cities infinitely (can not handle so much requests)',
     url: 'https://myllez2110.github.io/infinitycities/',
     technologies: ['React', 'TypeScript', 'Styled-Components', 'GH-Pages', 'Bolt'],
   },
