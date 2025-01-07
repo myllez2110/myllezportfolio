@@ -8,7 +8,7 @@ function App() {
     <div className="min-h-screen bg-black text-white">
       <Header />
       
-      <main className="max-w-6xl mx-auto px-6 pt-24 pb-16">
+      <main className="max-w-7x1 mx-auto px-6 pt-24 pb-16">
         <section className="mb-16">
           <h1 className="text-4xl font-bold mb-4">Welcome to My Portfolio</h1>
           <p className="text-xl text-zinc-400">

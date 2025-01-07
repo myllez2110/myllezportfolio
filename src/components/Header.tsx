@@ -4,7 +4,7 @@ import { Code } from 'lucide-react';
 export function Header() {
   return (
     <header className="fixed top-0 left-0 right-0 bg-black/50 backdrop-blur-sm z-50">
-      <div className="max-w-6xl mx-auto px-6 py-4">
+      <div className="max-w-8xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Code className="text-white" size={24} />
