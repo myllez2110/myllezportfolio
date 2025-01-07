@@ -15,4 +15,11 @@ export const projects: Project[] = [
     url: 'https://myllez2110.github.io/myllezportfolio/',
     technologies: ['React', 'TypeScript', 'Tailwind', 'GH-Pages'],
   },
+  {
+    id: 'project-3',
+    title: 'Metadata Remover',
+    description: 'A very simple and minimal project to remove metadata from images.',
+    url: 'https://myllez2110.github.io/keepAnon/',
+    technologies: ['React', 'TypeScript', 'Tailwind', 'GH-Pages', 'Python', 'Flask'],
+  }
 ];
