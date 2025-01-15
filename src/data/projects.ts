@@ -21,5 +21,12 @@ export const projects: Project[] = [
     description: 'A very simple and minimal project to remove metadata from images.',
     url: 'https://myllez2110.github.io/keepAnon/',
     technologies: ['React', 'TypeScript', 'Tailwind', 'GH-Pages', 'Python', 'Flask'],
+  },
+  {
+    id: 'project-4',
+    title: 'Furia.gg Clone (WIP)',
+    description: 'Handmade clone of Furia.gg, eyeballed from the website (WIP) (not responsive)',
+    url: 'https://myllez2110.github.io/furia-clone/',
+    technologies: ['React', 'TypeScript', 'Styled-Components', 'GH-Pages'],
   }
 ];
