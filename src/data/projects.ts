@@ -10,10 +10,10 @@ export const projects: Project[] = [
   },
   {
     id: 'project-2',
-    title: 'Portfolio by MylleZ',
-    description: 'The portfolio site you are currently using',
-    url: 'https://myllez2110.github.io/myllezportfolio/',
-    technologies: ['React', 'TypeScript', 'Tailwind', 'GH-Pages'],
+    title: 'minTodo',
+    description: 'A minimalistic tasks-based ToDo list synced without login with mobile support.',
+    url: 'https://myllez2110.github.io/minTodo/',
+    technologies: ['React', 'TypeScript', 'Styled-Components', 'GH-Pages', 'Supabase'],
   },
   {
     id: 'project-3',
@@ -25,8 +25,15 @@ export const projects: Project[] = [
   {
     id: 'project-4',
     title: 'Furia.gg Clone (WIP)',
-    description: 'Handmade clone of Furia.gg, eyeballed from the website (WIP) (not responsive)',
+    description: 'Handmade clone of Furia.gg, eyeballed from the website (WIP).',
     url: 'https://myllez2110.github.io/furia-clone/',
     technologies: ['React', 'TypeScript', 'Styled-Components', 'GH-Pages'],
+  },
+  {
+    id: 'project-5',
+    title: 'Portfolio by MylleZ',
+    description: 'The portfolio site you are currently using',
+    url: 'https://myllez2110.github.io/myllezportfolio/',
+    technologies: ['React', 'TypeScript', 'Tailwind', 'GH-Pages'],
   }
 ];
